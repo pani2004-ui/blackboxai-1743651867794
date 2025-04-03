@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/captures/
+android/build/
+
+# System files
+.DS_Store
+*.log
+*.tmp
+
+# Capacitor
+capacitor.config.ts
